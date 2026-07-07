@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t1",
+    "name": "Rafiqul Islam",
+    "role": "Production Operator, Penang",
+    "type": "worker",
+    "quote": "Mehedi Bhai handled everything from documentation to my flight ticket. I started work within eight weeks and the salary matches exactly what I was promised.",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "name": "Ms. Tan Wei Ling",
+    "role": "HR Manager, Cempaka Electronics Manufacturing Sdn Bhd",
+    "type": "employer",
+    "quote": "We needed 40 line operators within a tight production ramp-up. MS Global Manpower delivered verified, work-ready candidates faster than any agency we've used.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "name": "Md. Shahin Ahmed",
+    "role": "Steel Fixer, Johor Bahru",
+    "type": "worker",
+    "quote": "I was worried about being cheated by agents, but every step was transparent. I could call and check my visa status anytime before I even left Dhaka.",
+    "rating": 5
+  },
+  {
+    "id": "t4",
+    "name": "Encik Zulkifli Rahman",
+    "role": "Estate Manager, Golden Harvest Plantation Sdn Bhd",
+    "type": "employer",
+    "quote": "The harvesters supplied were genuinely trained and productive from week one. Communication with the agency during the permit process was excellent.",
+    "rating": 5
+  },
+  {
+    "id": "t5",
+    "name": "Abdul Karim",
+    "role": "Kitchen Crew, Kuala Lumpur",
+    "type": "worker",
+    "quote": "The pre-departure orientation prepared me for life in Malaysia — accommodation, transport, even the local food. I felt supported, not just placed.",
+    "rating": 5
+  },
+  {
+    "id": "t6",
+    "name": "Mr. Lim Chee Keong",
+    "role": "Operations Director, Prestige Bina Construction Sdn Bhd",
+    "type": "employer",
+    "quote": "Bulk hiring for our tower project could have been a nightmare. Mehedi's team managed sourcing, documentation and deployment as one seamless process.",
+    "rating": 5
+  }
+]

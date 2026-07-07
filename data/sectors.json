@@ -1,0 +1,37 @@
+[
+  {
+    "id": "construction",
+    "name": "Construction",
+    "icon": "HardHat",
+    "openRoles": 214,
+    "description": "General labourers, formwork carpenters, steel fixers and site supervisors for major Malaysian infrastructure and property developments."
+  },
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing & Factory",
+    "icon": "Factory",
+    "openRoles": 268,
+    "description": "Production line operators, machine handlers and QC assistants for electronics, rubber, glove and packaging factories across Selangor and Penang."
+  },
+  {
+    "id": "plantation",
+    "name": "Plantation & Agriculture",
+    "icon": "Trees",
+    "openRoles": 156,
+    "description": "Harvesters, estate workers and field supervisors for palm oil plantations and agro-processing operations in Johor, Pahang and Sabah."
+  },
+  {
+    "id": "fnb-hospitality",
+    "name": "F&B & Hospitality",
+    "icon": "UtensilsCrossed",
+    "openRoles": 132,
+    "description": "Kitchen crew, servers, housekeeping and hotel back-of-house staff for restaurant chains and hospitality groups in Kuala Lumpur and Penang."
+  },
+  {
+    "id": "retail",
+    "name": "Retail & Services",
+    "icon": "Store",
+    "openRoles": 77,
+    "description": "Warehouse assistants, store crew and cleaning service staff for retail chains and facility management companies."
+  }
+]
