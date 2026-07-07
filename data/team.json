@@ -1,0 +1,30 @@
+[
+  {
+    "id": "team1",
+    "name": "Mehedi Sarker",
+    "role": "Founder & Lead Recruitment Consultant",
+    "photo": "/images/mehedi-hasan.jpg",
+    "bio": "Based in Malaysia with direct, on-the-ground relationships with employers across construction, manufacturing, plantation and hospitality sectors."
+  },
+  {
+    "id": "team2",
+    "name": "Nasrin Akter",
+    "role": "Documentation & Compliance Lead",
+    "photo": "",
+    "bio": "Oversees BMET clearance, medical screening coordination and visa documentation accuracy for every candidate."
+  },
+  {
+    "id": "team3",
+    "name": "Kamal Hossain",
+    "role": "Candidate Sourcing Manager (Dhaka)",
+    "photo": "",
+    "bio": "Manages the Dhaka sourcing office, candidate screening and pre-departure orientation sessions."
+  },
+  {
+    "id": "team4",
+    "name": "Faisal Rahman",
+    "role": "Employer Relations, Malaysia",
+    "photo": "",
+    "bio": "Liaises directly with Malaysian employers on quota approvals, role specifications and on-arrival onboarding."
+  }
+]

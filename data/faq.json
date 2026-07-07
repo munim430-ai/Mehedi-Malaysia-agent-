@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f1",
+    "question": "How long does the Malaysia work visa process take?",
+    "answer": "From candidate selection to deployment, the typical timeline is 8-12 weeks, covering BMET clearance, medical examination, visa stamping and pre-departure orientation. Timelines can vary based on sector and Malaysian immigration processing volumes.",
+    "audience": "both"
+  },
+  {
+    "id": "f2",
+    "question": "Do you charge workers for placement?",
+    "answer": "We operate within BMET-regulated fee structures for overseas employment. Any service charge is disclosed transparently upfront — there are no hidden costs added after documentation begins.",
+    "audience": "worker"
+  },
+  {
+    "id": "f3",
+    "question": "What sectors do you specialize in?",
+    "answer": "We focus on construction, manufacturing and factory production, plantation and agriculture, and F&B and hospitality roles, with additional placements in retail and facility services.",
+    "audience": "both"
+  },
+  {
+    "id": "f4",
+    "question": "How do you verify employer legitimacy in Malaysia?",
+    "answer": "Every partnering employer is checked against valid foreign worker quota approval and business registration before we begin sourcing candidates, protecting workers from unverified job offers.",
+    "audience": "worker"
+  },
+  {
+    "id": "f5",
+    "question": "Can you handle bulk hiring for factories or plantations?",
+    "answer": "Yes. We regularly manage bulk deployment of 20-100+ workers for a single employer, coordinating batch documentation, medical screening and phased flight scheduling.",
+    "audience": "employer"
+  },
+  {
+    "id": "f6",
+    "question": "What support do workers get after arriving in Malaysia?",
+    "answer": "We coordinate airport pickup, onboarding with the employer, and remain a point of contact for the first months of employment to help resolve any early-stage issues.",
+    "audience": "worker"
+  },
+  {
+    "id": "f7",
+    "question": "Is pre-departure training or orientation provided?",
+    "answer": "Yes. Selected candidates attend an orientation covering Malaysian workplace culture, basic safety practices, accommodation logistics and what to expect on arrival.",
+    "audience": "worker"
+  },
+  {
+    "id": "f8",
+    "question": "What documentation does our company need to hire foreign workers through you?",
+    "answer": "You'll need an approved foreign worker quota from the Malaysian Ministry of Human Resources and valid business registration. We guide employers through the remaining documentation as part of onboarding.",
+    "audience": "employer"
+  }
+]
